@@ -4,7 +4,7 @@ permalink: /PROT_2024
 title: PROT 2024
 header1: Workshop Pages for Students
 header2: Proteomics 2024
-image: /site_images/PROT_logo.png
+image: /site_images/PROT_logo.jpg
 length: 3 days
 ---
 
