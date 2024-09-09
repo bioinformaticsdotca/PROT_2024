@@ -20,7 +20,7 @@ The course **schedule** can be found [here](https://bioinformaticsdotca.github.i
 
 # Pre-Workshop Materials <a id="preworkshop"></a>
 
-<!-- **Pre-work** including programs to install, tutorials, and readings can be found [here]() -->
+**Pre-work** including programs to install, tutorials, and readings can be found [here](https://docs.google.com/forms/d/e/1FAIpQLScSkUfju24IarDfunnvCKcBvN8SW7-m-5arH-zlfrtY0ahsFw/viewform?usp=sf_link).  
 
 ***
 
