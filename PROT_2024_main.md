@@ -26,7 +26,7 @@ The course **schedule** can be found [here](https://bioinformaticsdotca.github.i
 
 # AWS Module <a id="preworkshop"></a>
 
-<!-- Connecting and properly using a cloud computing cluster at the CBW [here]()   -->
+[Log into your Windows server at AWS](https://bioinformaticsdotca.github.io/AWS_setup_Windows)
 
 ***
 
