@@ -10,8 +10,6 @@ length: 3 days
 
 # Welcome <a id="welcome"></a>
 
-**This page is still being built. Please note that some links may be broken or out of date.**  
-
 Welcome to Proteomics 2024.  
 
 The course **schedule** can be found [here](https://bioinformaticsdotca.github.io/PROT_2024_schedule)
@@ -26,7 +24,7 @@ The course **schedule** can be found [here](https://bioinformaticsdotca.github.i
 
 # AWS Module <a id="preworkshop"></a>
 
-<!-- Connecting and properly using a cloud computing cluster at the CBW [here]()   -->
+Connecting and properly using a cloud computing cluster at the CBW [here](/AWS_setup_Windows)  
 
 ***
 
@@ -38,31 +36,35 @@ Coming soon!
 
 # Day 1 <a id="day1"></a>
 
-<!-- ##  Module 1 -->
+##  Module 1: Introduction to mass spectrometry and proteomics
 
-<!-- *<font color="#827e9c">Martin Hirst</font>*   -->
+*<font color="#827e9c">Jennifer Geddes-McAlister</font>*  
 
-<!-- [Module 1 Lecture Slides]()   -->
+[Module 1 Lecture Slides](https://drive.google.com/file/d/1E5asgog2C7weaRSiB6ugkh1VYmPkRE-s/view?usp=drive_link)  
 <!-- [Module 1 Lecture Recording]()   -->
 <!-- [Module 1 Lab]()   -->
 
-<!-- ##  Module 2 -->
+##  Module 2: Experimental design and analytical strategies
 
-<!-- *<font color="#827e9c">Martin Hirst</font>*   -->
+*<font color="#827e9c">Florence Roux-Dalvai</font>*  
 
-<!-- [Module 2 Lecture Slides]()   -->
+[Module 2 Lecture Slides](https://drive.google.com/file/d/1YbC9CTYw5fG9P1CwJ-vDNXXS5p76Q9lw/view?usp=sharing)  
 <!-- [Module 2 Lecture Recording]()   -->
 <!-- [Module 2 Lab]()   -->
 
-<!-- # Day 2 <a id="day2"></a> -->
+## Facility Tour
+[Facility Tour Slides](https://drive.google.com/file/d/1fH4iKXh-Zvzj_nsPN1fLYMkHeRUAy6bB/view?usp=drive_link)  
 
-<!-- ##  Module 3 -->
+##  Module 3: Introduction to software platforms
 
-<!-- *<font color="#827e9c">Edmund Su</font>*   -->
+*<font color="#827e9c">Jennifer Geddes-McAlister</font>*  
 
-<!-- [Module 3 Lecture Slides]()   -->
+[Module 3 Lecture Slides](https://drive.google.com/file/d/19et9OvwT69uu-GLvj5HDE___kHbw95CJ/view?usp=drive_link)  
 <!-- [Module 3 Lecture Recording]()   -->
 <!-- [Module 3 Lab]()   -->
+
+<!-- # Day 2 <a id="day2"></a> -->
+
 
 <!-- ##  Module 4 -->
 
