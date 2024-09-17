@@ -58,7 +58,7 @@ Coming soon!
 *<font color="#827e9c">Jennifer Geddes-McAlister</font>*  
 
 [Module 3 Lecture Slides](https://drive.google.com/file/d/19et9OvwT69uu-GLvj5HDE___kHbw95CJ/view?usp=drive_link)  
-<!-- [Module 3 Lecture Recording]()   -->
+[Module 3 Lecture Recording](https://youtu.be/HZ6H4UTIlJc)  
 
 # Day 2 <a id="day2"></a>
 
@@ -67,17 +67,23 @@ Coming soon!
 *<font color="#827e9c">Florence Roux-Dalvai</font>*  
 
 [Module 4 Lecture Slides](https://drive.google.com/file/d/1X6NOWefixKcuuLzpsOrclp7uhAxLCLD8/view?usp=drive_link)  
-<!-- [Module 4 Lecture Recording]()   -->
+[Module 4 Lecture Recording](https://youtu.be/lry-ZrlWPzI)  
 [Module 4 Lab Slides](https://drive.google.com/file/d/1qaSDDguozhw5KZdEDWyvRxi1GBCmRn4N/view?usp=drive_link)   
 
-<!-- ##  Module 5:  -->
+##  Module 5: Best practices in data analysis, statistics, & visualization
 
-<!-- *<font color="#827e9c">Ben Muselius</font>*   -->
+*<font color="#827e9c">Ben Muselius & Jennifer Geddes-McAlister</font>*  
 
-<!-- [Module 5 Lecture Slides]()   -->
+[Module 5 Lecture Slides](https://drive.google.com/file/d/1JMLZMgBDDLCPFiI5Lqw3YVzbOU7jExF-/view?usp=drive_link)  
 <!-- [Module 5 Lecture Recording]()   -->
-<!-- [Module 5 Lab]()   -->
 
-<!-- [Base R Cheat Sheet](https://drive.google.com/file/d/1YcAaLIBhfDHsC55HATECvgxxs6Hi6Kbn/view?usp=drive_link)   -->
-<!-- [Data Visualization Cheat Sheet](https://drive.google.com/file/d/1hM01Cv6lLeeBHp1sNcXeGv0YEmAESW_e/view?usp=drive_link)   -->
-<!-- [RMarkdown Cheat Sheet](https://drive.google.com/file/d/1x301e0Pc2jnng1fMmrOqqpszEI9exK0B/view?usp=sharing)   -->
+[Base R Cheat Sheet](https://drive.google.com/file/d/1YcAaLIBhfDHsC55HATECvgxxs6Hi6Kbn/view?usp=drive_link)  
+[Data Visualization Cheat Sheet](https://drive.google.com/file/d/1hM01Cv6lLeeBHp1sNcXeGv0YEmAESW_e/view?usp=drive_link)  
+[RMarkdown Cheat Sheet](https://drive.google.com/file/d/1x301e0Pc2jnng1fMmrOqqpszEI9exK0B/view?usp=sharing)  
+
+
+<!-- # Day 3 -->
+
+<!-- ## Module 6: Considerations and tools for complex datasets -->
+
+<!-- [Module 6 Lecture Slides](https://drive.google.com/file/d/1i6sXRrrdzvY9q1t0PsOS95vIl1QN9XXX/view?usp=drive_link)   -->
