@@ -30,7 +30,12 @@ The course **schedule** can be found [here](https://bioinformaticsdotca.github.i
 
 # Class photo
 
-Coming soon!
+[CBW Proteomics Class of 2024]()  
+[Proteomics Social](https://drive.google.com/file/d/1KrQH9M4QylZy7L3bE1DbsZ0yfpy7AfcL/view?usp=sharing)  
+
+# Data Download
+
+[Data files used for this workshop are available here](https://drive.google.com/drive/folders/1kSsR2d_cI5FeDFW5lCD7In_Z5-KHLrBt?usp=drive_link)
 
 ***
 
@@ -75,7 +80,7 @@ Coming soon!
 *<font color="#827e9c">Ben Muselius & Jennifer Geddes-McAlister</font>*  
 
 [Module 5 Lecture Slides](https://drive.google.com/file/d/1JMLZMgBDDLCPFiI5Lqw3YVzbOU7jExF-/view?usp=drive_link)  
-<!-- [Module 5 Lecture Recording]()   -->
+[Module 5 Lecture Recording](https://youtu.be/RgQr__5u2F8)  
 
 [Base R Cheat Sheet](https://drive.google.com/file/d/1YcAaLIBhfDHsC55HATECvgxxs6Hi6Kbn/view?usp=drive_link)  
 [Data Visualization Cheat Sheet](https://drive.google.com/file/d/1hM01Cv6lLeeBHp1sNcXeGv0YEmAESW_e/view?usp=drive_link)  
@@ -85,5 +90,12 @@ Coming soon!
 <!-- # Day 3 -->
 
 <!-- ## Module 6: Considerations and tools for complex datasets -->
+<!-- *<font color="#827e9c">Jennifer Geddes-McAlister</font>*   -->
 
 <!-- [Module 6 Lecture Slides](https://drive.google.com/file/d/1i6sXRrrdzvY9q1t0PsOS95vIl1QN9XXX/view?usp=drive_link)   -->
+
+
+<!-- ## Module 7: Current and future advances of AI in proteomics   -->
+<!-- *<font color="#827e9c">Marie Pier Scott-Boyer & Mickael Leclercq</font>*   -->
+
+<!-- [Module 7 Lecture Slides](https://drive.google.com/file/d/1fst0tejFzB76RkHMFM5wfrDOSJWAdags/view?usp=drive_link)   -->
