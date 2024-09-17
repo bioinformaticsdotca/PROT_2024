@@ -41,16 +41,14 @@ Coming soon!
 *<font color="#827e9c">Jennifer Geddes-McAlister</font>*  
 
 [Module 1 Lecture Slides](https://drive.google.com/file/d/1E5asgog2C7weaRSiB6ugkh1VYmPkRE-s/view?usp=drive_link)  
-<!-- [Module 1 Lecture Recording]()   -->
-<!-- [Module 1 Lab]()   -->
+[Module 1 Lecture Recording](https://youtu.be/ECUMN84ZAzI)  
 
 ##  Module 2: Experimental design and analytical strategies
 
 *<font color="#827e9c">Florence Roux-Dalvai</font>*  
 
 [Module 2 Lecture Slides](https://drive.google.com/file/d/1YbC9CTYw5fG9P1CwJ-vDNXXS5p76Q9lw/view?usp=sharing)  
-<!-- [Module 2 Lecture Recording]()   -->
-<!-- [Module 2 Lab]()   -->
+[Module 2 Lecture Recording](https://youtu.be/vFMAs__M2WA)  
 
 ## Facility Tour
 [Facility Tour Slides](https://drive.google.com/file/d/1fH4iKXh-Zvzj_nsPN1fLYMkHeRUAy6bB/view?usp=drive_link)  
@@ -61,25 +59,25 @@ Coming soon!
 
 [Module 3 Lecture Slides](https://drive.google.com/file/d/19et9OvwT69uu-GLvj5HDE___kHbw95CJ/view?usp=drive_link)  
 <!-- [Module 3 Lecture Recording]()   -->
-<!-- [Module 3 Lab]()   -->
 
-<!-- # Day 2 <a id="day2"></a> -->
+# Day 2 <a id="day2"></a>
 
+##  Module 4: Data-Independent Acquisition (DIA) analysis
 
-<!-- ##  Module 4 -->
+*<font color="#827e9c">Florence Roux-Dalvai</font>*  
 
-<!-- *<font color="#827e9c">Guillaume Bourque</font>*   -->
-
-<!-- [Module 4 Lecture Slides]()   -->
+[Module 4 Lecture Slides](https://drive.google.com/file/d/1X6NOWefixKcuuLzpsOrclp7uhAxLCLD8/view?usp=drive_link)  
 <!-- [Module 4 Lecture Recording]()   -->
-<!-- [Module 4 Lab]()   --> 
+[Module 4 Lab Slides](https://drive.google.com/file/d/1qaSDDguozhw5KZdEDWyvRxi1GBCmRn4N/view?usp=drive_link)   
 
-<!-- # Day 3 <a id="day2"></a> -->
+<!-- ##  Module 5:  -->
 
-<!-- ##  Module 5 -->
-
-<!-- *<font color="#827e9c">David Bujold</font>*   -->
+<!-- *<font color="#827e9c">Ben Muselius</font>*   -->
 
 <!-- [Module 5 Lecture Slides]()   -->
 <!-- [Module 5 Lecture Recording]()   -->
 <!-- [Module 5 Lab]()   -->
+
+<!-- [Base R Cheat Sheet](https://drive.google.com/file/d/1YcAaLIBhfDHsC55HATECvgxxs6Hi6Kbn/view?usp=drive_link)   -->
+<!-- [Data Visualization Cheat Sheet](https://drive.google.com/file/d/1hM01Cv6lLeeBHp1sNcXeGv0YEmAESW_e/view?usp=drive_link)   -->
+<!-- [RMarkdown Cheat Sheet](https://drive.google.com/file/d/1x301e0Pc2jnng1fMmrOqqpszEI9exK0B/view?usp=sharing)   -->
