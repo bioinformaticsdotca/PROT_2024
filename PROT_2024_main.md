@@ -95,10 +95,14 @@ The course **schedule** can be found [here](https://bioinformaticsdotca.github.i
 *<font color="#827e9c">Jennifer Geddes-McAlister</font>*  
 
 [Module 6 Lecture Slides](https://drive.google.com/file/d/1i6sXRrrdzvY9q1t0PsOS95vIl1QN9XXX/view?usp=drive_link)  
+<!-- [Module 6 Lecture Recording]()   -->
 
 
 ## Module 7: Current and future advances of AI in proteomics  
 *<font color="#827e9c">Marie Pier Scott-Boyer & Mickael Leclercq</font>*  
 
-[Module 7 Lecture Slides: Current and future advances of AI in proteomics](https://drive.google.com/file/d/1DuRVPV1bzWJfLKWfjnFDWsXABFJ2kUon/view?usp=sharing)
-[Module 7 Lecture Slides: Multi-Omics Integration](https://drive.google.com/file/d/1fst0tejFzB76RkHMFM5wfrDOSJWAdags/view?usp=drive_link)  
+[Module 7.1 Lecture Slides: Current and future advances of AI in proteomics](https://drive.google.com/file/d/1DuRVPV1bzWJfLKWfjnFDWsXABFJ2kUon/view?usp=sharing)
+<!-- [Module 7.1 Lecture Recording]()   -->
+
+[Module 7.2 Lecture Slides: Multi-Omics Integration](https://drive.google.com/file/d/1fst0tejFzB76RkHMFM5wfrDOSJWAdags/view?usp=drive_link)  
+<!-- [Module 7.2 Lecture Recording]()   -->
