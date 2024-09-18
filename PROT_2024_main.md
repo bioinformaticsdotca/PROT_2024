@@ -30,7 +30,7 @@ The course **schedule** can be found [here](https://bioinformaticsdotca.github.i
 
 # Class photo
 
-<!-- [CBW Proteomics Class of 2024]()   -->
+[CBW Proteomics Class of 2024](https://drive.google.com/file/d/1NL0LLgWR-JWGBVs6aIWCXZ_0dn1dsYpK/view?usp=sharing)  
 [Proteomics Social](https://drive.google.com/file/d/1KrQH9M4QylZy7L3bE1DbsZ0yfpy7AfcL/view?usp=sharing)  
 
 # Data Download
@@ -79,18 +79,17 @@ The course **schedule** can be found [here](https://bioinformaticsdotca.github.i
 
 *<font color="#827e9c">Ben Muselius & Jennifer Geddes-McAlister</font>*  
 
-[Module 5.1 Lecture Slides: Best practices in data analysis, statistics, & visualization](https://drive.google.com/file/d/1JMLZMgBDDLCPFiI5Lqw3YVzbOU7jExF-/view?usp=drive_link)  
-[Module 5.1 Lecture Recording: Best practices in data analysis, statistics, & visualization](https://youtu.be/RgQr__5u2F8)  
+[Module 5 Lecture Slides](https://drive.google.com/file/d/1JMLZMgBDDLCPFiI5Lqw3YVzbOU7jExF-/view?usp=drive_link)  
+[Module 5 Lecture Recording](https://youtu.be/RgQr__5u2F8)  
 
-[Module 5.2 Lecture Slides: DIA-NN post-processing](https://drive.google.com/file/d/1w4sbWJVGaZCE7zNSXEwIXLB_uwz5WIc4/view?usp=drive_link)  
-<!-- [Module 5.2 Lecture Recording: DIA-NN post-processing]()   -->
+[Module 5 Lab Slides: DIA-NN post-processing](https://drive.google.com/file/d/1w4sbWJVGaZCE7zNSXEwIXLB_uwz5WIc4/view?usp=drive_link)  
 
 [Base R Cheat Sheet](https://drive.google.com/file/d/1YcAaLIBhfDHsC55HATECvgxxs6Hi6Kbn/view?usp=drive_link)  
 [Data Visualization Cheat Sheet](https://drive.google.com/file/d/1hM01Cv6lLeeBHp1sNcXeGv0YEmAESW_e/view?usp=drive_link)  
 [RMarkdown Cheat Sheet](https://drive.google.com/file/d/1x301e0Pc2jnng1fMmrOqqpszEI9exK0B/view?usp=sharing)  
 
 
-# Day 3
+# Day 3 <a id="day3"></a>
 
 ## Module 6: Considerations and tools for complex datasets
 *<font color="#827e9c">Jennifer Geddes-McAlister</font>*  
