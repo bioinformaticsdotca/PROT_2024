@@ -35,7 +35,11 @@ The course **schedule** can be found [here](https://bioinformaticsdotca.github.i
 
 # Data Download
 
-[Data files used for this workshop are available here](https://drive.google.com/drive/folders/1kSsR2d_cI5FeDFW5lCD7In_Z5-KHLrBt?usp=drive_link)
+Data files used for this workshop are available here:  
+
+[DDA](https://drive.google.com/drive/folders/1kSsR2d_cI5FeDFW5lCD7In_Z5-KHLrBt?usp=drive_link)  
+[DIA-NN](https://drive.google.com/drive/folders/18uY7-vYLHd4TbgJ54Snay3MvSWH4LOOY?usp=drive_link)  
+[Module 5 Lab (R)](https://drive.google.com/drive/folders/1gweCDB6GbBH_6Gw1X4RPNQe3_H2nsmcY?usp=sharing)  
 
 ***
 
