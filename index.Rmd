@@ -5,12 +5,12 @@ date: "September 16, 2024 - September 18, 2024"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
-url: https://github.com/cbw-dev/PROT-2024 # CHANGE THIS LINK TO YOUR LANDING PAGE LINK
+url: https://bioinformaticsdotca.github.io/PROT_2024/ # CHANGE THIS LINK TO YOUR LANDING PAGE LINK
 cover-image: img/bioinformatics_logo.png
 description: |
   Workshop website for the 2024 Proteomics Canadian Bioinformatics Workshop
 link-citations: yes
-github-repo: cbw-dev/PROT-2024 # CHANGE THIS TO YOUR OWN REPO
+github-repo: bioinformaticsdotca/PROT_2024 # CHANGE THIS TO YOUR OWN REPO
 favicon: img/favicon.ico
 ---
 
